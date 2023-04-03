@@ -1,7 +1,7 @@
 ## Nama : Muhammad Bisma 
 ## NIM  : 312010443
 
-# Lab9Web
+# Lab4_Web
 Disini saya akan membuat program modular sederhana menggunakan PHP
 # Langkah - langkah Praktikum
 
