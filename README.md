@@ -9,7 +9,7 @@ Disini saya akan membuat program modular sederhana menggunakan PHP
 ![folder](img/1.png)
 
 ## 2). Buat file baru dengan nama header.php
-![header](img/2.png
+![header](img/2.png)
 
 ## 3). Buat file baru dengan nama footer.php
 ![footer](img/3.png)
@@ -30,7 +30,7 @@ Implementasikan konsep modularisasi pada kode program praktikum 3 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
 # Hasil Run
-![home](img/8.png)
+![home](img/7.png)
 
 
 # TERIMA KASIH
